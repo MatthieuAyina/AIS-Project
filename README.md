@@ -1,6 +1,6 @@
 # Pipeline de données AIS – Trafic maritime en Manche
 
-Pipeline de collecte en temps réel des données AIS (Automatic Identification System) des navires circulant en Manche, l'une des zones maritimes les plus fréquentées au monde.
+Pipeline de collecte en temps réel des données AIS (Automatic Identification System) des navires circulant dans la Manche, l'une des zones maritimes les plus fréquentées au monde.
 
 Le projet ingère un flux WebSocket continu, structure les données dans PostgreSQL/PostGIS selon un modèle faits/dimension, et tourne de façon autonome dans des conteneurs Docker.
 
